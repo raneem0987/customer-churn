@@ -136,15 +136,6 @@ The SQL analysis includes:
 - Age distribution
 - Tenure distribution
 
-### Example SQL Query
-
-```sql
-select geography,
-count(*) as total_customers
-from churn_modelling
-group by geography
-order by total_customers desc;
-
 
 ## 📂 Project Structure
 
