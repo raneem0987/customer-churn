@@ -142,6 +142,7 @@ The SQL analysis includes:
 Bank-Customer-Churn/
 │
 ├── data/
+│   └── churn_modelling.csv
 │
 ├── python/
 │   └── churn_analysis.ipynb
@@ -153,6 +154,7 @@ Bank-Customer-Churn/
 │   └── bank_customer_churn.pbix
 │
 ├── images/
+│   ├── cover.png
 │   ├── executive-overview.png
 │   ├── customer-analysis.png
 │   ├── financial-analysis.png
